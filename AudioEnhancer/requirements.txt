@@ -1,0 +1,6 @@
+sounddevice==0.4.6
+scipy==1.11.4
+numpy==1.26.3
+deepgram-sdk
+google-generativeai
+pydub==0.25.1
